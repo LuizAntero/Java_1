@@ -77,7 +77,7 @@ public class TelaGenio extends javax.swing.JFrame {
         int val = Integer.parseInt(txtVal.getValue().toString());
         
         String f1 = "ACERTOU!";
-        String f2 = "ERROU! Pensei em " + n;
+        String f2 = "ERROU! Pensei em " + n + "</html>";
         
         String res = (val==n)?f1:f2;
         
