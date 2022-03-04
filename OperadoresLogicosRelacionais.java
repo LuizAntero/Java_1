@@ -17,7 +17,7 @@ public class TelaGenio extends javax.swing.JFrame {
      */
     public TelaGenio() {
         initComponents();
-        txtFrase.setText("<html>Estou pensando em um número entre <strong>1 e 5.</strong>Tente adivinhar que valor é esse.");
+        txtFrase.setText("<html>Estou pensando em um número entre <strong>1 e 5.</strong>Tente adivinhar que valor é esse."</html>);
     }
 
     /**
